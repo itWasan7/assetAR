@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57912423574be427ca59f90c05e61a7e, type: 3}
+  m_Name: Receiver
+  m_EditorClassIdentifier: Assembly-CSharp::PartData
+  type: 7
+  displayName: Receiver (RX)
+  icon: {fileID: 0}
+  iconCW: {fileID: 0}
+  iconCCW: {fileID: 0}
+  info: The receiver gets signals from your remote and passes them to the flight
+    controller. It must be bound (paired) to your remote. With ELRS, both must use
+    the same major version.
+  whereItGoes: Connected to the flight controller, with the antenna out in the open.
+  wrongDirectionHelp: 
+  videoUrl: https://www.youtube.com/watch?v=L1Aqy6jGJec

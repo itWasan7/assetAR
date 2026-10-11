@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57912423574be427ca59f90c05e61a7e, type: 3}
+  m_Name: Frame
+  m_EditorClassIdentifier: Assembly-CSharp::PartData
+  type: 0
+  displayName: Frame
+  icon: {fileID: 0}
+  iconCW: {fileID: 0}
+  iconCCW: {fileID: 0}
+  info: The frame is the skeleton of the drone. Every other part is mounted on it.
+    Most frames use an X shape, with arms going out diagonally from the center. Carbon
+    fiber is popular because it is light and strong.
+  whereItGoes: The base of everything. Build on it first.
+  wrongDirectionHelp: 
+  videoUrl: https://www.youtube.com/watch?v=lg-QKhl0uuU
